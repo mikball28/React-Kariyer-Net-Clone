@@ -1,0 +1,16 @@
+{
+  "profiles": [
+    {
+      "id": 1,
+      "email": "ikbal@gmail.com",
+      "name": "Muhammed",
+      "password": "159357"
+    },
+    {
+      "id": 2,
+      "email": "goktekin@gmail.com",
+      "name": "İkbal",
+      "password": "159357+"
+    }
+  ]
+}
